@@ -204,6 +204,49 @@ https://jsonplaceholder.typicode.com/users
 
 ✅ Task 3 Completed Successfully
 
+
+## 📌 Overview
+This repository contains my **Task 5** submission for the **ApexPlanet App Development Internship**.
+
+The objective of this task was to strengthen Android app development skills by implementing the required features and applying Kotlin programming concepts.
+
+---
+
+## 🚀 Features
+- Clean and user-friendly interface
+- Implemented the requirements of Task 5
+- Responsive design
+- Error handling
+- Optimized code structure
+
+---
+
+## 🛠️ Technologies Used
+- Kotlin
+- Android Studio
+- XML
+- Android SDK
+
+---
+
+## 📂 Project Structure
+```
+Task5/
+│── app/
+│── gradle/
+│── screenshots/
+│── README.md
+```
+
+---
+
+## ▶️ How to Run
+1. Clone this repository.
+2. Open the project in Android Studio.
+3. Sync Gradle files.
+4. Build and run the application on an emulator or Android device.
+
+---
 ## 👩‍💻 Author
 
 **Bhavana Reddy**
